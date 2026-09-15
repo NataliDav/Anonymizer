@@ -27,8 +27,8 @@
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/yourusername/local-table-anonymizer.git
-cd local-table-anonymizer
+git clone https://github.com/NataliDav/TEST.git
+cd TEST
 
 # Установить зависимости
 pip install -r anonymizer/requirements.txt
